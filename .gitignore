@@ -1,0 +1,6 @@
+*
+!.gitignore
+!*.vhdl
+!*.s
+!*.txt
+!README.md
